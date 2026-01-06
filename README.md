@@ -59,7 +59,7 @@ in next challange, i want to keep use semantic html5 markup and begin to use css
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/AMfazri)
+- Frontend Mentor - [@AMfazri](https://www.frontendmentor.io/profile/AMfazri)
 
 ## Acknowledgments
 
